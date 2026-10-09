@@ -2,8 +2,11 @@
 # Les 1
 ## Opdracht 1.1
 <img width="428" height="233" alt="Screenshot 2026-10-09 105155" src="https://github.com/user-attachments/assets/f95640ea-d0fd-42a7-a8f9-200a06a11168" />
+
 i made the oopdracht with a string int and bool
+
 ## Opdracht 1.2
+
 <img width="432" height="186" alt="Screenshot 2026-10-09 105211" src="https://github.com/user-attachments/assets/62c035f9-5c4a-44c0-9075-cf48d183c51d" />
 made a HP calculator
 ## Opdracht 1.3
