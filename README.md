@@ -77,3 +77,7 @@ made the plane and the tower prefab in which you can randomly place the towers
 <img width="1080" height="596" alt="les2" src="https://github.com/user-attachments/assets/d22235d8-aca8-41cb-a7a5-1c1893c4588e" />
 
 in total i made 3 scripts in which give the score and relay it to the player, makes the player able to move and another that acts as the pickup and what sends the score to the canvas scoreboard
+
+# Les 4 
+
+## i was unable to rewrite the code into seperate scipts as the entire game was broken and i had nothing 
