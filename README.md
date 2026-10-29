@@ -88,4 +88,6 @@ in total i made 3 scripts in which give the score and relay it to the player, ma
 
 # Les 6
 
+## Encapsolation
+
 [Link naar code(map)]()
