@@ -90,4 +90,4 @@ in total i made 3 scripts in which give the score and relay it to the player, ma
 
 ## Encapsolation
 
-[Link naar code(map)]()
+[Link naar code(map)](Assets/Scripts/Les6)
