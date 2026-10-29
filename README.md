@@ -81,3 +81,9 @@ in total i made 3 scripts in which give the score and relay it to the player, ma
 # Les 4 
 
 ## i was unable to rewrite the code into seperate scipts as the entire game was broken and i had nothing 
+
+# Les 5 
+
+<img width="1072" height="504" alt="Les5" src="https://github.com/user-attachments/assets/7d83d395-fcfc-4564-bcd0-5c7df9f88933" />
+
+# Les 6
